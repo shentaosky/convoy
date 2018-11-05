@@ -1,3 +1,4 @@
+[![Go Report Card](https://goreportcard.com/badge/github.com/smileusd/convoy)](https://goreportcard.com/report/github.com/smileusd/convoy)
 # Convoy [![Build Status](https://drone.rancher.io/api/badges/rancher/convoy/status.svg)](https://drone.rancher.io/rancher/convoy)
 
 ## Overview
